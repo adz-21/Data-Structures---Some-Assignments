@@ -1,3 +1,5 @@
+#A simple approach to store the members of a Pinnacle Club + perform operations - add/delete member, display list in order + in reverse
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
