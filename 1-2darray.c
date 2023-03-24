@@ -1,3 +1,5 @@
+#Perform operations - addition, subtraction, multiplication, transpose, saddle point - on 2D matrices
+
 #include<stdio.h>
 #include<stdlib.h>
 
