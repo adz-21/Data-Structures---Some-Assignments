@@ -1,3 +1,5 @@
+#Converts numeric expressions from infix to postfix form + evaluates the answer
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
