@@ -1,4 +1,4 @@
-#Perform operations - addition, subtraction, multiplication, transpose, saddle point - on 2D matrices
+#Perform operations - addition, subtraction, multiplication, transpose, saddle point - on matrices - by using pointers and 2D Arrays
 
 #include<stdio.h>
 #include<stdlib.h>
