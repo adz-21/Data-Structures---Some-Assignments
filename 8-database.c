@@ -1,3 +1,7 @@
+/* A Database Management System for a company to store the details of their employees AND to perform operations on them (Insert, Delete, Modify, Display, Reverse Display).
+The following data can be stored : Employee ID, Name, Salary and Phone Number. 
+The system is made using data structures like linked lists. I have used structures, linked lists, arrays, switch case and many other concepts to execute this program.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
