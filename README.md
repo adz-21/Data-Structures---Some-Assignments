@@ -7,7 +7,7 @@ You'll be able to find the codes for the following programs :
    - solved by using pointers and 2D Arrays
 
 2. A database program to store the members of a Pinnacle Club + perform operations on them - add member, delete member and display list (in order + in reverse)
-  - solved by using linked lists
+   - solved by using linked lists
 
 3. Converts numeric expressions from infix to postfix form + evaluates the answer
    - solved by using linked lists and stacks
